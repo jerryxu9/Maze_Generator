@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Maze_Generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Maze_Generator/static/js/main.18b1afb5.chunk.js",
+    "main.js.map": "/Maze_Generator/static/js/main.18b1afb5.chunk.js.map",
+    "runtime-main.js": "/Maze_Generator/static/js/runtime-main.dc9e151b.js",
+    "runtime-main.js.map": "/Maze_Generator/static/js/runtime-main.dc9e151b.js.map",
+    "static/js/2.41936984.chunk.js": "/Maze_Generator/static/js/2.41936984.chunk.js",
+    "static/js/2.41936984.chunk.js.map": "/Maze_Generator/static/js/2.41936984.chunk.js.map",
+    "index.html": "/Maze_Generator/index.html",
+    "precache-manifest.59160167a794779793c93475e31a31c6.js": "/Maze_Generator/precache-manifest.59160167a794779793c93475e31a31c6.js",
+    "service-worker.js": "/Maze_Generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Maze_Generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.41936984.chunk.js.LICENSE.txt": "/Maze_Generator/static/js/2.41936984.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Maze_Generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc9e151b.js",
+    "static/js/2.41936984.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.18b1afb5.chunk.js"
+  ]
+}
